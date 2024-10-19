@@ -4,6 +4,11 @@
 
 This data analysis project aims to provide insights into the performance of the Blinkit sales and delivery records in the year. By analyzing various aspects of the sales data, we seek to identify trends , make data driven recommendations, and gain a deeper understanding of the company's performance.
 
+
+![Screenshot (64)](https://github.com/user-attachments/assets/ab20527a-2d59-4abf-b11d-94c45db25db3)
+
+
+
 ### Data Sources
 Sales Data: The primary dataset used for this analysis is the "BlinkIT Grocery Data.xlsx", containing detailed information about the sales made by the company.
 
